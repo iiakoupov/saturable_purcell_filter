@@ -1,0 +1,3 @@
+Wrote to measure_with_jqf_g_kappa_1_kappaI_0_gamma2_50_gamma2I_0_gamma2D_0_Omega_2_omegar_5000_omega1_4000_omega2_3997_omegad_opt_kxr_0_kx2_1_phi_0.csv
+114394.19user 5277.45system 550:03:43elapsed 6%CPU (0avgtext+0avgdata 2566896maxresident)k
+8672inputs+424outputs (64major+3162467354minor)pagefaults 0swaps

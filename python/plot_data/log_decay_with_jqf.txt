@@ -1,0 +1,3 @@
+Wrote to decay_with_jqf_startEigenstate_dde_kappa_1_gamma2_50_gamma1I_0_gamma2I_0_g_54.772_Omega_0_omegad_4000_omegar_5000_omega1_4000_omega2_3997_kxr_0_kx2_1.csv
+94060.98user 9309.94system 21:05:17elapsed 136%CPU (0avgtext+0avgdata 30996676maxresident)k
+0inputs+166624outputs (0major+5636389minor)pagefaults 0swaps
